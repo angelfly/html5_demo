@@ -1,5 +1,12 @@
-1341487371
+1341491268
 Application	/home/richard/rails_projects/html5_demo/config/application.rb	  class Application 
 ApplicationController	/home/richard/rails_projects/html5_demo/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/richard/rails_projects/html5_demo/app/helpers/application_helper.rb	module ApplicationHelper
 Html5Demo	/home/richard/rails_projects/html5_demo/config/application.rb	module Html5Demo
+PublicPagesController	/home/richard/rails_projects/html5_demo/app/controllers/public_pages_controller.rb	class PublicPagesController 
+PublicPagesHelper	/home/richard/rails_projects/html5_demo/app/helpers/public_pages_helper.rb	module PublicPagesHelper
+about	/home/richard/rails_projects/html5_demo/app/controllers/public_pages_controller.rb	  def about
+contact	/home/richard/rails_projects/html5_demo/app/controllers/public_pages_controller.rb	  def contact
+help	/home/richard/rails_projects/html5_demo/app/controllers/public_pages_controller.rb	  def help
+home	/home/richard/rails_projects/html5_demo/app/controllers/public_pages_controller.rb	  def home
+sign_up	/home/richard/rails_projects/html5_demo/app/controllers/public_pages_controller.rb	  def sign_up

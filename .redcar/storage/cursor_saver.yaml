@@ -1,9 +1,18 @@
 --- 
 cursor_positions: 
-  - :path: .gitignore
-    :cursor_offset: 101
-    :timestamp: 2012-07-05 20:53:22 +10:00
   - :path: Gemfile
     :cursor_offset: 1311
     :timestamp: 2012-07-05 20:52:39 +10:00
+  - :path: README.md
+    :cursor_offset: 70
+    :timestamp: 2012-07-05 21:19:36 +10:00
+  - :path: .gitignore
+    :cursor_offset: 424
+    :timestamp: 2012-07-05 21:22:51 +10:00
+  - :path: app/views/public_pages/help.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-07-05 21:55:21 +10:00
+  - :path: app/views/public_pages/about.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-07-05 21:55:21 +10:00
 files_to_retain: 0

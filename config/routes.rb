@@ -1,4 +1,20 @@
 Html5Demo::Application.routes.draw do
+  # get "public_pages/home"
+  # match '/home', to: 'public_pages#home'
+  root to: 'public_pages#home'
+
+  # get "public_pages/sign_up"
+  match '/sign_up', to: 'public_pages#sign_up'
+
+  # get "public_pages/contact"
+  match 'contact', to: 'public_pages#contact'
+
+  # get "public_pages/about"
+  match 'about', to: 'public_pages#about'
+
+  # get "public_pages/help"
+  match 'help', to: 'public_pages#help'
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
