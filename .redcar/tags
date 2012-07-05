@@ -1,4 +1,4 @@
-1341485609
+1341487371
 Application	/home/richard/rails_projects/html5_demo/config/application.rb	  class Application 
 ApplicationController	/home/richard/rails_projects/html5_demo/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/richard/rails_projects/html5_demo/app/helpers/application_helper.rb	module ApplicationHelper
